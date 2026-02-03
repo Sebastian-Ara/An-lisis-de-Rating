@@ -51,4 +51,4 @@ analítico y de reporting en R.
 ---
 
 ## 👤 Autor
-Sebastián Araujo Ayala
+Sebastian Araujo Ayala
