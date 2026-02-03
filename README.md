@@ -11,14 +11,14 @@ El repositorio incluye tanto el código fuente como el reporte final en PDF.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 - Analizar patrones en los ratings de audiencia
 - Aplicar análisis exploratorio de datos en R
 - Presentar resultados en un reporte reproducible
 
 ---
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 - R
 - RMarkdown
 - tidyverse
@@ -27,13 +27,13 @@ El repositorio incluye tanto el código fuente como el reporte final en PDF.
 
 ---
 
-## 📂 Contenido del repositorio
+## Contenido del repositorio
 - `analisis_ratings_audiencia.Rmd` → Código y estructura del análisis
 - `analisis_ratings_audiencia.pdf` → Reporte final con resultados y visualizaciones
 
 ---
 
-## 👀 Vista rápida
+## Vista rápida
 El archivo PDF contiene:
 - Gráficos y tablas de análisis
 - Interpretación de resultados
@@ -43,7 +43,7 @@ No es necesario ejecutar código para revisar el proyecto.
 
 ---
 
-## ⚠️ Nota sobre los datos
+## Nota sobre los datos
 Los datos utilizados no se incluyen en este repositorio.
 El análisis se presenta principalmente con fines demostrativos del proceso
 analítico y de reporting en R.
